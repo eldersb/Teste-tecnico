@@ -1,4 +1,4 @@
-#Teste-tecnico
+# Teste-tecnico
 
 * Linguagem escolhida: PHP.
 
