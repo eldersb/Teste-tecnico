@@ -1,0 +1,4 @@
+Ligarei um dos interruptores e esperarei um pouco para que a lâmpada esquente.
+Desligareiela e ligarei um segundo interruptor. 
+Vou uma vez até a sala. 
+A lâmpada desligada e quente corresponde ao primeiro interruptor, a lâmpada acesa ao segundo e a lâmpada apagada e fria ao terceiro.
